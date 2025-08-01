@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: valueSender
+  main:
+    web-application-type: reactive
+server:
+  port: 8080
